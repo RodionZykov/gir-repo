@@ -1,4 +1,0 @@
-print(1Hello world ! ` )
-print(`Hello evrybody ` )
-print(`Hello`)
-print(`Helo vasya , you mu friend `)
