@@ -1,2 +1,7 @@
+
 print(`goodbye;`)
 print(`Hi friend;`)
+
+print(`goodbye`)
+print(`Hi friend`)
+

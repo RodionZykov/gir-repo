@@ -1,4 +1,5 @@
-<meta charset="utf-8">
-<script>
-function getRandom(min, max)
-</script>
+<meta charset="utf-8";>
+<script;>
+function getRandom(min, max;)
+</script;>
+<alert all random Math.random;>
